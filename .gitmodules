@@ -2,23 +2,23 @@
 	path = EXAM1
 	url = https://github.com/ece264summer2019/ex1makeup-Ranjanbehl
 [submodule "pa03-Ranjanbehl"]
-	path = pa03-Ranjanbehl
+	path = PA03
 	url = https://github.com/ece264summer2019/pa03-Ranjanbehl
 [submodule "pa04-Ranjanbehl"]
-	path = pa04-Ranjanbehl
+	path = PA04
 	url = https://github.com/ece264summer2019/pa04-Ranjanbehl
 [submodule "pa05-Ranjanbehl"]
-	path = pa05-Ranjanbehl
+	path = PA05
 	url = https://github.com/ece264summer2019/pa05-Ranjanbehl
 [submodule "pa06-Ranjanbehl"]
-	path = pa06-Ranjanbehl
+	path = PA06
 	url = https://github.com/ece264summer2019/pa06-Ranjanbehl
 [submodule "pa07-Ranjanbehl"]
-	path = pa07-Ranjanbehl
+	path = PA07
 	url = https://github.com/ece264summer2019/pa07-Ranjanbehl
 [submodule "pa08-Ranjanbehl"]
-	path = pa08-Ranjanbehl
+	path = PA08
 	url = https://github.com/ece264summer2019/pa08-Ranjanbehl
 [submodule "pa09-Ranjanbehl"]
-	path = pa09-Ranjanbehl
+	path = PA09
 	url = https://github.com/ece264summer2019/pa09-Ranjanbehl
