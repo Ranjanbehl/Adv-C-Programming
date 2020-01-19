@@ -18,4 +18,4 @@ PA08 : Evaluate RPN with Stacks
 
 PA09 : Expression Trees
 
-NOTE : PA08 & PA09 is two part homework assignments on building a RPN calculator
+NOTE : PA08 & PA09 is a two part homework assignment on building a RPN calculator
